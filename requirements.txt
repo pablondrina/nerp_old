@@ -1,0 +1,9 @@
+django
+gunicorn
+psycopg2-binary
+django-admin-interface
+pillow
+unipath
+python-decouple
+django-import-export
+django-widgets-improved
