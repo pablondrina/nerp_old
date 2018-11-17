@@ -46,7 +46,7 @@ ENV/
 
 # My edit:
 
-.idea/
+.idea
 *.sublime-*
 
 tutorial.txt
